@@ -1,0 +1,68 @@
+disabled:
+  - id: DanielX.civet
+    uuid: 65d76c12-f23e-40a7-a8c4-adbdd851d098
+enabled:
+  - id: bierner.emojisense
+    uuid: 081cd2e9-bc51-4ea3-977e-544bed2e33a8
+  - id: caiqichang.vscode-translation
+    uuid: e6583333-05c7-41d4-8f9a-bc65dbc2f69e
+  - id: christian-kohler.npm-intellisense
+    uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
+  - id: csstools.postcss
+    uuid: 80def04d-6d01-495b-9d59-4ad19408872f
+  - id: DanielGavin.ols
+    uuid: 877a1c3f-c301-4f1c-bc6f-0ae22d78d3c3
+  - id: DotJoshJohnson.xml
+    uuid: 0cb81da2-1880-4755-9995-0ae9cc728e20
+  - id: enkia.tokyo-night
+    uuid: 1cac7443-911e-48b9-8341-49f3880c288a
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: firsttris.vscode-jest-runner
+    uuid: 13cd6cd6-3da6-4eb8-8d81-b47e6e710e59
+  - id: formulahendry.auto-close-tag
+    uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
+  - id: formulahendry.auto-complete-tag
+    uuid: 366a9f01-2d1b-48b9-b7df-014ff8dea46b
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: good-snippets.good-snippets
+    uuid: e5d90a2b-118c-4d88-947d-5cfa83a629ec
+  - id: ionutvmi.path-autocomplete
+    uuid: 0d1241e3-fa60-4f24-8f2a-6d7085677c48
+  - id: IronGeek.vscode-env
+    uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
+  - id: kumar-harsh.graphql-for-vscode
+    uuid: 3e8a391a-f3f0-44b2-8631-7847b0c8839a
+  - id: llvm-vs-code-extensions.vscode-clangd
+    uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: nrwl.angular-console
+    uuid: d10af6bf-270f-4cf0-b94b-1bea4bda1e2e
+  - id: pflannery.vscode-versionlens
+    uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: quick-lint.quick-lint-js
+    uuid: 7c8d3b34-52a6-4077-880c-a5866e00a20a
+  - id: vincaslt.highlight-matching-tag
+    uuid: aae00486-7e92-42b3-91b0-2b419e4f3875
+  - id: vlanguage.vscode-vlang
+    uuid: df4335ce-aaa2-4957-bbe3-a8aabc9f48b5
+  - id: lukegeneva.auto-collapse-explorer
+    uuid: null
+  - id: janet-lang.vscode-janet
+    uuid: null
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+  - id: vunguyentuan.vscode-postcss
+    uuid: 361b3dd2-9a8c-45d2-9039-1789dec4362e
+  - id: wayou.vscode-todo-highlight
+    uuid: 97a08c5f-6667-4242-a5c5-045dfb6bd4b9
+  - id: xabikos.JavaScriptSnippets
+    uuid: a2cec723-5349-460d-9de9-0fd1f8d3456f
+  - id: zokugun.cron-tasks
+    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea

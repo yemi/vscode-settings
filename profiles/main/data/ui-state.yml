@@ -1,0 +1,416 @@
+caiqichang.vscode-translation: "{\"history\":[{\"sl\":\"en\",\"tl\":\"es\",\"q\
+  \":\"next module: the one that is so fun\",\"results\":[\"próximo módulo: el
+  que es tan divertido\",\"Siguiente módulo: el que es tan
+  divertido.\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"next
+  module\",\"results\":[\"siguiente módulo\",\"módulo
+  siguiente\"]},{\"sl\":\"en\",\"tl\":\"sv\",\"q\":\"{\\n  \\\"stage.empty.title\
+  \\\": \\\"Stage is empty\\\",\\n  \\\"stage.empty.subtitle\\\": \\\"Waiting
+  for speaker\\\",\\n  \\\"stage.loading.title\\\": \\\"Loading
+  camera\\\",\\n  \\\"stage.loading.subtitle\\\": \\\"Just a
+  moment\\\",\\n\\n  \\\"sidebar.speakers.title\\\":
+  \\\"Speakers\\\",\\n  \\\"sidebar.audience.title\\\":
+  \\\"Audience\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"stage.empty.title\\\":
+  \\\"Scen är tom\\\",\\n  \\\"stage.empty.subtitle\\\": \\\"Väntar på
+  talare\\\",\\n  \\\"stage.loading.title\\\": \\\"Laddar
+  kamera\\\",\\n  \\\"stage.loading.subtitle\\\": \\\"Bara ett
+  ögonblick\\\",\\n\\n  \\\"sidebar.speakers.title\\\":
+  \\\"Högtalare\\\",\\n  \\\"sidebar.audience.title\\\":
+  \\\"Målgrupp\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"stage\
+  .empty.title\\\": \\\"Stage is empty\\\",\\n  \\\"stage.empty.subtitle\\\":
+  \\\"Waiting for speaker\\\",\\n  \\\"stage.loading.title\\\": \\\"Loading
+  camera\\\",\\n  \\\"stage.loading.subtitle\\\": \\\"Just a
+  moment\\\",\\n\\n  \\\"sidebar.speakers.title\\\":
+  \\\"Speakers\\\",\\n  \\\"sidebar.audience.title\\\":
+  \\\"Audience\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"stage.empty.title\\\":
+  \\\"El escenario está vacío\\\",\\n  \\\"stage.empty.subtitle\\\":
+  \\\"Esperando al orador\\\",\\n  \\\"stage.loading.title\\\": \\\"Cargando
+  cámara\\\",\\n  \\\"stage.loading.subtitle\\\": \\\"Sólo un
+  momento\\\",\\n\\n  \\\"sidebar.speakers.title\\\":
+  \\\"Oradores\\\",\\n  \\\"sidebar.audience.title\\\":
+  \\\"Público\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"sv\",\"q\":\"{\\n  \\\"room.s\
+  tage.title\\\": \\\"Stage room\\\",\\n  \\\"room.breakout.title_one\\\":
+  \\\"Breakout room\\\",\\n  \\\"room.breakout.title_one_other\\\": \\\"Breakout
+  room\\\",\\n\\n  \\\"toolbar.chat.placeholder\\\": \\\"Write
+  something...\\\",\\n  \\\"toolbar.next.title\\\": \\\"Coming
+  up\\\",\\n  \\\"toolbar.next.action.start\\\": \\\"Start
+  module\\\",\\n  \\\"toolbar.scheduled.title\\\": \\\"Scheduled
+  for\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"room.stage.title\\\":
+  \\\"Scenrum\\\",\\n  \\\"room.breakout.title_one\\\":
+  \\\"Grundrum\\\",\\n  \\\"room.breakout.title_one_other\\\":
+  \\\"Grundrum\\\",\\n\\n  \\\"toolbar.chat.placeholder\\\": \\\"Skriv
+  något...\\\",\\n  \\\"toolbar.next.title\\\": \\\"Kommer
+  upp\\\",\\n  \\\"toolbar.next.action.start\\\": \\\"Starta
+  modul\\\",\\n  \\\"toolbar.scheduled.title\\\": \\\"Schemalagt
+  för\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"room.stage.tit\
+  le\\\": \\\"Stage room\\\",\\n  \\\"room.breakout.title_one\\\": \\\"Breakout
+  room\\\",\\n  \\\"room.breakout.title_one_other\\\": \\\"Breakout
+  room\\\",\\n\\n  \\\"toolbar.chat.placeholder\\\": \\\"Write
+  something...\\\",\\n  \\\"toolbar.next.title\\\": \\\"Coming
+  up\\\",\\n  \\\"toolbar.next.action.start\\\": \\\"Start
+  module\\\",\\n  \\\"toolbar.scheduled.title\\\": \\\"Scheduled
+  for\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"room.stage.title\\\":
+  \\\"Escenario\\\",\\n  \\\"room.breakout.title_one\\\": \\\"Sala de
+  descanso\\\",\\n  \\\"room.breakout.title_one_other\\\": \\\"Sala de
+  descanso\\\",\\n\\n  \\\"toolbar.chat.placeholder\\\": \\\"Escribe
+  algo...\\\",\\n  \\\"toolbar.next.title\\\":
+  \\\"Próximamente\\\",\\n  \\\"toolbar.next.action.start\\\": \\\"Iniciar
+  módulo\\\",\\n  \\\"toolbar.scheduled.title\\\": \\\"Programado
+  para\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"sv\",\"q\":\"{\\n  \\\"room.stage.ti\
+  tle\\\": \\\"Stage room\\\",\\n  \\\"room.breakout.title_one\\\": \\\"Breakout
+  room\\\",\\n  \\\"room.breakout.title_one_other\\\": \\\"Breakout
+  room\\\",\\n\\n  \\\"toolbar.chat.placeholder\\\": \\\"Write
+  something...\\\",\\n  \\\"toolbar.next.title\\\": \\\"Coming
+  up\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"room.stage.title\\\":
+  \\\"Scenrum\\\",\\n  \\\"room.breakout.title_one\\\":
+  \\\"Grundrum\\\",\\n  \\\"room.breakout.title_one_other\\\":
+  \\\"Grundrum\\\",\\n\\n  \\\"toolbar.chat.placeholder\\\": \\\"Skriv
+  något...\\\",\\n  \\\"toolbar.next.title\\\": \\\"Kommer
+  upp\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"room.stage.tit\
+  le\\\": \\\"Stage room\\\",\\n  \\\"room.breakout.title_one\\\": \\\"Breakout
+  room\\\",\\n  \\\"room.breakout.title_one_other\\\": \\\"Breakout
+  room\\\",\\n\\n  \\\"toolbar.chat.placeholder\\\": \\\"Write
+  something...\\\",\\n  \\\"toolbar.next.title\\\": \\\"Coming
+  up\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"room.stage.title\\\":
+  \\\"Escenario\\\",\\n  \\\"room.breakout.title_one\\\": \\\"Sala de
+  descanso\\\",\\n  \\\"room.breakout.title_one_other\\\": \\\"Sala de
+  descanso\\\",\\n\\n  \\\"toolbar.chat.placeholder\\\": \\\"Escribe
+  algo...\\\",\\n  \\\"toolbar.next.title\\\":
+  \\\"Próximamente\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"empty
+  stage\",\"results\":[\"escenario vacío\",\"etapa
+  vacia\"]},{\"sl\":\"en\",\"tl\":\"sv\",\"q\":\"empty
+  stage\",\"results\":[\"tom scen\",\"en tom
+  scen\"]},{\"sl\":\"en\",\"tl\":\"sv\",\"q\":\"{\\n  \\\"stage.empty.title\\\":
+  \\\"Stage is empty\\\",\\n  \\\"stage.empty.subtitle\\\": \\\"Waiting for
+  speaker\\\",\\n  \\\"stage.loading.title\\\": \\\"Loading
+  speaker\\\",\\n  \\\"stage.loading.subtitle\\\": \\\"Just a
+  moment\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"stage.empty.title\\\": \\\"Scen
+  är tom\\\",\\n  \\\"stage.empty.subtitle\\\": \\\"Väntar på
+  talare\\\",\\n  \\\"stage.loading.title\\\": \\\"Laddar
+  högtalare\\\",\\n  \\\"stage.loading.subtitle\\\": \\\"Bara ett
+  ögonblick\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"stage.em\
+  pty.title\\\": \\\"Stage is empty\\\",\\n  \\\"stage.empty.subtitle\\\":
+  \\\"Waiting for speaker\\\",\\n  \\\"stage.loading.title\\\": \\\"Loading
+  speaker\\\",\\n  \\\"stage.loading.subtitle\\\": \\\"Just a
+  moment\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"stage.empty.title\\\": \\\"El
+  escenario está vacío\\\",\\n  \\\"stage.empty.subtitle\\\": \\\"Esperando al
+  orador\\\",\\n  \\\"stage.loading.title\\\": \\\"Cargando
+  altavoz\\\",\\n  \\\"stage.loading.subtitle\\\": \\\"Sólo un
+  momento\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"camera-sta\
+  tus.loading.title\\\": \\\"Loading
+  camera\\\",\\n  \\\"camera-status.starting.title\\\": \\\"Starting
+  camera\\\",\\n  \\\"camera-status.blocked.title\\\": \\\"Camera is
+  blocked\\\",\\n  \\\"camera-status.blocked.help.body\\\": \\\"Click the
+  blocked camera icon in your browsers address bar, allow and then
+  refresh.\\\",\\n  \\\"camera-status.blocked.help.action.reload\\\":
+  \\\"Refresh page\\\",\\n  \\\"camera-status.off.title\\\": \\\"Camera is
+  off\\\",\\n  \\\"camera-status.off.help.action.troubleshoot\\\": \\\"How do I
+  start
+  it?\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"camera-status.loading.title\\\":
+  \\\"Cargando cámara\\\",\\n  \\\"camera-status.starting.title\\\":
+  \\\"Iniciando cámara\\\",\\n  \\\"camera-status.blocked.title\\\": \\\"La
+  cámara está bloqueada\\\",\\n  \\\"camera-status.blocked.help.body\\\":
+  \\\"Haz clic en el icono de la cámara bloqueada en la barra de direcciones de
+  tu navegador, permite y luego
+  actualiza.\\\",\\n  \\\"camera-status.blocked.help.action.reload\\\":
+  \\\"Actualizar página\\\",\\n  \\\"camera-status.off.title\\\": \\\"La cámara
+  está apagada\\\",\\n  \\\"camera-status.off.help.action.troubleshoot\\\":
+  \\\"¿Cómo lo
+  inicio?\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"camera-sta\
+  tus.loading.title\\\": \\\"Loading
+  camera\\\",\\n  \\\"camera-status.starting.title\\\": \\\"Starting
+  camera\\\",\\n  \\\"camera-status.blocked.title\\\": \\\"Camera is
+  blocked\\\",\\n  \\\"camera-status.blocked.help.body\\\": \\\"Click the
+  blocked camera icon in your browsers address bar and then
+  refresh.\\\",\\n  \\\"camera-status.blocked.help.action.reload\\\":
+  \\\"Refresh page\\\",\\n  \\\"camera-status.off.title\\\": \\\"Camera is
+  off\\\",\\n  \\\"camera-status.off.help.action.troubleshoot\\\": \\\"How do I
+  start
+  it?\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"camera-status.loading.title\\\":
+  \\\"Cargando cámara\\\",\\n  \\\"camera-status.starting.title\\\":
+  \\\"Iniciando cámara\\\",\\n  \\\"camera-status.blocked.title\\\": \\\"La
+  cámara está bloqueada\\\",\\n  \\\"camera-status.blocked.help.body\\\":
+  \\\"Haz clic en el ícono de la cámara bloqueada en la barra de direcciones de
+  tu navegador y luego
+  actualiza.\\\",\\n  \\\"camera-status.blocked.help.action.reload\\\":
+  \\\"Actualizar página\\\",\\n  \\\"camera-status.off.title\\\": \\\"La cámara
+  está apagada\\\",\\n  \\\"camera-status.off.help.action.troubleshoot\\\":
+  \\\"¿Cómo lo
+  inicio?\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"lobby.title\
+  \\\": \\\"Stage is yours\\\",\\n  \\\"lobby.subtitle\\\": \\\"Make sure to
+  have lots of fun!\\\",\\n  \\\"lobby.room-status.empty.title\\\": \\\"No one
+  is here yet\\\",\\n  \\\"lobby.room-status.inhabited.title\\\": \\\"Currently
+  in the room\\\",\\n  \\\"lobby.action.enter\\\": \\\"Enter
+  stage\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"lobby.title\\\": \\\"El escenario
+  es tuyo\\\",\\n  \\\"lobby.subtitle\\\": \\\"¡Asegúrate de divertirte
+  mucho!\\\",\\n  \\\"lobby.room-status.empty.title\\\": \\\"No hay nadie aquí
+  todavía\\\",\\n  \\\"lobby.room-status.inhabited.title\\\": \\\"Actualmente en
+  la habitación\\\",\\n  \\\"lobby.action.enter\\\": \\\"Entrar al
+  escenario\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"sv\",\"q\":\"{\\n  \\\"camera-s\
+  tatus.loading.title\\\": \\\"Loading
+  camera\\\",\\n  \\\"camera-status.starting.title\\\": \\\"Starting
+  camera\\\",\\n  \\\"camera-status.blocked.title\\\": \\\"Camera is
+  blocked\\\",\\n  \\\"camera-status.blocked.help.body\\\": \\\"Click the
+  blocked camera icon in your browsers address bar and then
+  reload.\\\",\\n  \\\"camera-status.blocked.help.action.reload\\\":
+  \\\"Reload\\\",\\n  \\\"camera-status.off.title\\\": \\\"Camera is
+  off\\\",\\n  \\\"camera-status.off.help.action.troubleshoot\\\": \\\"How do I
+  start
+  it?\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"camera-status.loading.title\\\":
+  \\\"Laddar kamera\\\",\\n  \\\"camera-status.starting.title\\\": \\\"Startar
+  kamera\\\",\\n  \\\"camera-status.blocked.title\\\": \\\"Kameran är
+  blockerad\\\",\\n  \\\"camera-status.blocked.help.body\\\": \\\"Klicka på
+  ikonen för blockerad kamera i webbläsarens adressfält och ladda sedan
+  om.\\\",\\n  \\\"camera-status.blocked.help.action.reload\\\": \\\"Ladda
+  om\\\",\\n  \\\"camera-status.off.title\\\": \\\"Kameran är
+  avstängd\\\",\\n  \\\"camera-status.off.help.action.troubleshoot\\\": \\\"Hur
+  startar jag
+  det?\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"camera-status\
+  .loading.title\\\": \\\"Loading
+  camera\\\",\\n  \\\"camera-status.starting.title\\\": \\\"Starting
+  camera\\\",\\n  \\\"camera-status.blocked.title\\\": \\\"Camera is
+  blocked\\\",\\n  \\\"camera-status.blocked.help.body\\\": \\\"Click the
+  blocked camera icon in your browsers address bar and then
+  reload.\\\",\\n  \\\"camera-status.blocked.help.action.reload\\\":
+  \\\"Reload\\\",\\n  \\\"camera-status.off.title\\\": \\\"Camera is
+  off\\\",\\n  \\\"camera-status.off.help.action.troubleshoot\\\": \\\"How do I
+  start
+  it?\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"camera-status.loading.title\\\":
+  \\\"Cargando cámara\\\",\\n  \\\"camera-status.starting.title\\\":
+  \\\"Iniciando cámara\\\",\\n  \\\"camera-status.blocked.title\\\": \\\"La
+  cámara está bloqueada\\\",\\n  \\\"camera-status.blocked.help.body\\\":
+  \\\"Haz clic en el ícono de la cámara bloqueada en la barra de direcciones de
+  tu navegador y luego
+  recarga.\\\",\\n  \\\"camera-status.blocked.help.action.reload\\\":
+  \\\"Recargar\\\",\\n  \\\"camera-status.off.title\\\": \\\"La cámara está
+  apagada\\\",\\n  \\\"camera-status.off.help.action.troubleshoot\\\": \\\"¿Cómo
+  lo
+  inicio?\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"camera-sta\
+  tus.loading\\\": \\\"Loading camera\\\",\\n  \\\"camera-status.starting\\\":
+  \\\"Starting camera\\\",\\n  \\\"camera-status.blocked\\\": \\\"Camera is
+  blocked\\\",\\n  \\\"camera-status.off\\\": \\\"Camera is
+  off\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"camera-status.loading\\\":
+  \\\"Cargando cámara\\\",\\n  \\\"camera-status.starting\\\": \\\"Iniciando
+  cámara\\\",\\n  \\\"camera-status.blocked\\\": \\\"La cámara está
+  bloqueada\\\",\\n  \\\"camera-status.off\\\": \\\"La cámara está
+  apagada\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"sv\",\"q\":\"{\\n  \\\"camera-sta\
+  tus.loading\\\": \\\"Loading camera\\\",\\n  \\\"camera-status.starting\\\":
+  \\\"Starting camera\\\",\\n  \\\"camera-status.blocked\\\": \\\"Camera is
+  blocked\\\",\\n  \\\"camera-status.off\\\": \\\"Camera is
+  off\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"camera-status.loading\\\":
+  \\\"Laddar kamera\\\",\\n  \\\"camera-status.starting\\\": \\\"Startar
+  kamera\\\",\\n  \\\"camera-status.blocked\\\": \\\"Kameran är
+  blockerad\\\",\\n  \\\"camera-status.off\\\": \\\"Kameran är
+  avstängd\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"sv\",\"q\":\"{\\n  \\\"lobby.tit\
+  le\\\": \\\"Ready to rumble\\\",\\n  \\\"lobby.subtitle\\\": \\\"Feel free to
+  enter the stage\\\",\\n  \\\"lobby.participants.empty.title\\\": \\\"No one is
+  here yet\\\",\\n  \\\"lobby.participants.inhabited.title\\\": \\\"Currently in
+  the room\\\",\\n  \\\"lobby.action.enter\\\": \\\"Enter
+  stage\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"lobby.title\\\": \\\"Redo att
+  mullra\\\",\\n  \\\"lobby.subtitle\\\": \\\"Gå gärna in på
+  scenen\\\",\\n  \\\"lobby.participants.empty.title\\\": \\\"Ingen är här
+  ännu\\\",\\n  \\\"lobby.participants.inhabited.title\\\": \\\"I rummet just
+  nu\\\",\\n  \\\"lobby.action.enter\\\": \\\"Gå in i
+  scenen\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"lobby.title\
+  \\\": \\\"Ready to start\\\",\\n  \\\"lobby.subtitle\\\": \\\"Feel free to
+  enter the stage\\\",\\n  \\\"lobby.participants.empty.title\\\": \\\"No one is
+  here yet\\\",\\n  \\\"lobby.participants.inhabited.title\\\": \\\"Currently in
+  the room\\\",\\n  \\\"lobby.action.enter\\\": \\\"Enter
+  stage\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"lobby.title\\\": \\\"Listo para
+  comenzar\\\",\\n  \\\"lobby.subtitle\\\": \\\"Siéntete libre de entrar al
+  escenario\\\",\\n  \\\"lobby.participants.empty.title\\\": \\\"No hay nadie
+  aquí todavía\\\",\\n  \\\"lobby.participants.inhabited.title\\\":
+  \\\"Actualmente en la sala\\\",\\n  \\\"lobby.action.enter\\\": \\\"Entrar al
+  escenario\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"lobby.ti\
+  tle\\\": \\\"Ready to rumble\\\",\\n  \\\"lobby.subtitle\\\": \\\"Feel free to
+  enter the stage\\\",\\n  \\\"lobby.participants.empty.title\\\": \\\"No one is
+  here yet\\\",\\n  \\\"lobby.participants.inhabited.title\\\": \\\"Currently in
+  the room\\\",\\n  \\\"lobby.action.enter\\\": \\\"Enter
+  stage\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"lobby.title\\\": \\\"Listo para la
+  pelea\\\",\\n  \\\"lobby.subtitle\\\": \\\"Siéntete libre de entrar al
+  escenario\\\",\\n  \\\"lobby.participants.empty.title\\\": \\\"No hay nadie
+  aquí todavía\\\",\\n  \\\"lobby.participants.inhabited.title\\\":
+  \\\"Actualmente en la sala\\\",\\n  \\\"lobby.action.enter\\\": \\\"Entrar al
+  escenario\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"  \\\"module.email\
+  -login.label\\\": \\\"Your
+  email\\\",\\n  \\\"module.email-login.placeholder\\\": \\\"What's your
+  email?\\\",\",\"results\":[\"\\\"module.email-login.label\\\": \\\"Su correo
+  electrónico\\\",\\n  \\\"module.email-login.placeholder\\\": \\\"¿Cuál es tu
+  correo electrónico?\\\",\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"whats your
+  name?\",\"results\":[\"¿cómo te llamas?\",\"¿cuál es tu nombre?\",\"¿cómo se
+  llama?\",\"¿cual es tu nombre?\"]},{\"sl\":\"en\",\"tl\":\"en\",\"q\":\"whats
+  your name?\",\"results\":[\"whats your
+  name?\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"What's your
+  name?\",\"results\":[\"¿Cómo te llamas?\",\"¿Cuál es tu nombre?\",\"¿Cómo se
+  llama?\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"Your name\",\"results\":[\"Su
+  nombre\",\"Tu nombre\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"Here are all
+  your meetings 🥳\",\"results\":[\"Aquí están todas tus reuniones 🥳\",\"Aquí
+  están todos tus encuentros 🥳\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"Who do
+  you want to refer {{name_invitee_1}} to?\",\"results\":[\"¿A quién quieres
+  recomendar a {{name_invitee_1}}?\",\"¿A quién le gustaría recomendar a
+  {{name_invitee_1}}?\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"let's
+  go!\",\"results\":[\"¡vamos!\",\"¡vamonos!\",\"¡vámonos!\"]},{\"sl\":\"en\",\
+  \"tl\":\"es\",\"q\":\"Good to see you! Get ready, we'll soon find a match for
+  you.\",\"results\":[\"¡Que bueno verte! Prepárese, pronto encontraremos una
+  coincidencia para
+  usted.\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"meetings-modules-breakout-sys\
+  tems-waiting-room-scene-ui\",\"results\":[\"módulos-de-reuniones-sistemas-de-\
+  ruptura-sala-de-espera-escena-ui\",\"módulos-de-reuniones-sistemas-de-ruptura\
+  -escena-de-sala-de-espera-ui\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"  \\\"s\
+  ign-in\\\": \\\"Login\\\",\\n  \\\"sign-up\\\": \\\"Sign
+  up\\\",\",\"results\":[\"\\\"iniciar sesión\\\": \\\"Iniciar
+  sesión\\\",\\n  \\\"registrarse\\\":
+  \\\"Registrarse\\\",\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"action: Enter
+  meeting\",\"results\":[\"acción: Ingresar a la reunión\",\"acción: entrar a la
+  reunión\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"Your meeting is in 5
+  days\",\"results\":[\"Tu reunión es en 5 días.\",\"Su reunión es en 5
+  días\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"Your meeting is in
+  {{timeLeft}}\",\"results\":[\"Tu reunión es en {{timeLeft}}\",\"Su reunión es
+  el {{timeLeft}}\"]},{\"sl\":\"sv\",\"tl\":\"es\",\"q\":\"njut av er
+  introduktion\",\"results\":[\"disfruta tu introducción\",\"disfruta tu
+  presentación\"]},{\"sl\":\"sv\",\"tl\":\"es\",\"q\":\"njut av eran
+  introduktion\",\"results\":[\"disfruta tu introducción\",\"disfruta tu
+  presentación\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"5 days left
+  until\",\"results\":[\"Faltan 5 días para\",\"Quedan 5 días
+  para\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"5 days left\",\"results\":[\"5
+  días restantes\",\"quedan 5 dias\",\"faltan 5
+  dias\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"its five days left until the
+  event\",\"results\":[\"Faltan cinco días para el evento.\",\"quedan cinco días
+  para el
+  evento\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"{\\n  \\\"content.intro.body\\\
+  \": \\\"Enjoy your introduction!\\\",\\n  \\\"content.intro.awaiting\\\":
+  \\\"Awaiting {{name}}\\\",\\n  \\\"content.intro.action.join\\\": \\\"Enter
+  the meeting\\\",\\n  \\\"content.intro.action.join.status.waiting\\\":
+  \\\"Waiting for
+  participants...\\\",\\n  \\\"content.intro.status.join.status.starting\\\":
+  \\\"Starting the meeting...\\\",\\n  \\\"content.intro.timeleft\\\":
+  \\\"Meeting can start in
+  {{timeLeft}}\\\",\\n  \\\"content.intro.timeleft.soon\\\": \\\"{{timeLeft}}
+  left\\\",\\n  \\\"content.intro.action.soundcheck\\\": \\\"Check
+  sound\\\"\\n}\\n\",\"results\":[\"{\\n  \\\"content.intro.body\\\":
+  \\\"¡Disfruta tu introducción!\\\",\\n  \\\"content.intro.awaiting\\\":
+  \\\"Esperando a {{name}}\\\",\\n  \\\"content.intro.action.join\\\":
+  \\\"Ingresar a la
+  reunión\\\",\\n  \\\"content.intro.action.join.status.waiting\\\":
+  \\\"Esperando
+  participantes...\\\",\\n  \\\"content.intro.status.join.status.starting\\\":
+  \\\"Iniciando la reunión...\\\",\\n  \\\"content.intro.timeleft\\\": \\\"La
+  reunión puede comenzar en
+  {{timeLeft}}\\\",\\n  \\\"content.intro.timeleft.soon\\\": \\\"{{timeLeft}}
+  queda\\\",\\n  \\\"content.intro.action.soundcheck\\\": \\\"Comprobar
+  sonido\\\"\\n}\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"We'll make sure they
+  find a time that works ✨\",\"results\":[\"Nos aseguraremos de que encuentren
+  un horario que funcione ✨\",\"Nos aseguraremos de que encuentren un momento
+  que funcione✨\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"Here's their booking
+  link\",\"results\":[\"Aquí está su enlace de reserva.\",\"Aquí está el enlace
+  de reserva\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"my
+  introductions\",\"results\":[\"mis presentaciones\",\"mis
+  introducciones\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"my
+  intros\",\"results\":[\"mis introducciones\",\"mis
+  intros\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"Maybe
+  later\",\"results\":[\"Quizas mas tarde\",\"Quizas despues\",\"tal vez más
+  tarde\",\"Quizás más tarde\"]},{\"sl\":\"en\",\"tl\":\"es\",\"q\":\"would you
+  like to refer anyone along?\",\"results\":[\"¿Le gustaría recomendar a
+  alguien?\",\"¿Quieres recomendar a
+  alguien?\"]},{\"sl\":\"sv\",\"tl\":\"es\",\"q\":\"vill du referera någon av
+  dessa vidare?\",\"results\":[\"¿Le gustaría hacer referencia a alguno de estos
+  más?\",\"¿Le gustaría referirnos más a alguno de
+  estos?\"]},{\"sl\":\"sv\",\"tl\":\"es\",\"q\":\"vill du referera någon
+  vidare?\",\"results\":[\"¿Le gustaría recomendar a alguien más?\",\"¿Quieres
+  recomendar a alguien más?\"]}]}"
+DanielGavin.ols: '{"releaseId":0}'
+mhutchie.git-graph: '{"lastKnownGitPath":"git"}'
+ms-azuretools.vscode-docker: '{"vscode-docker.container.newContainerUser":false,"showQuickPick.89MdKG+0UKr2qFGCYo4yWXDMBbcxJXiMbdhBGXxwCeY=":"eykl9DLEWM7QYeq0lMjGKcIwjJ1LmUL7sH435oFQXEs=","showQuickPick.ARraYrAQgSkN6WWPFVEePhKn92+LMEXm1PqG5lsY34o=":"5bfl7TyLHomgRo5r8YLkXfdkvszC71LLjmVpyhW5zRQ=","isRegistryMigrated":true}'
+nrwl.angular-console: '{"uuid":"7be09022-c274-4c14-aa6f-967ec37e0872","shownTelemetryPrompt":true}'
+PKief.material-icon-theme: '{"material-icon-theme.version":"4.21.0"}'
+vincaslt.highlight-matching-tag: '{"hmtVersion":"0.10.1"}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.nx-console","pinned":true,"visible":true,"order":9},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.chatgpt","pinned":true,"visible":false,"order":10},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
+workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
+  \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
+  in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
+  npm:showScriptExplorer\"},{\"when\":\"xmlTreeViewEnabled\"},{\"when\":\"clang\
+  d.typeHierarchyVisible\"},{\"when\":\"clangd.memoryUsage.hasData\"},{\"when\":\
+  \"clangd.ast.hasData\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"\
+  id\":\"search-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[\
+  {}]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-control-vi\
+  ew-icon\"},\"name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
+  scm.providerCount !=
+  '0'\"},{},{\"when\":\"config.scm.experimental.showSyncView\"}]},{\"id\":\"wor\
+  kbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-icon\"},\"name\":\"Run
+  and Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
+  'default'\"},{\"when\":\"debugType == 'pwa-chrome' || debugType ==
+  'pwa-msedge'\"},{\"when\":\"jsDebugHasExcludedCallers && debugType ==
+  'node-terminal' || jsDebugHasExcludedCallers && debugType == 'pwa-chrome' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
+  jsDebugHasExcludedCallers && debugType ==
+  'pwa-node'\"}]},{\"id\":\"workbench.view.extensions\",\"themeIcon\":{\"id\":\
+  \"extensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\
+  \":[]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explo\
+  rer-view-icon\"},\"name\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extensio\
+  n.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isB\
+  uiltin\":true,\"views\":[{\"when\":\"testing.providerCount >
+  0\"}]},{\"id\":\"workbench.view.extension.references-view\",\"themeIcon\":{\"\
+  id\":\"references\"},\"name\":\"References\",\"isBuiltin\":false,\"views\":[{\
+  \"when\":\"reference-list.isActive\"}]},{\"id\":\"workbench.view.extension.nx\
+  -console\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/nrwl.an\
+  gular-console-18.11.0-universal/tree-view-icon.svg\",\"scheme\":\"file\"},\"n\
+  ame\":\"Nx
+  Console\",\"isBuiltin\":false,\"views\":[{\"when\":\"!isAngularWorkspace &&
+  !isNxWorkspace\"},{\"when\":\"isAngularWorkspace &&
+  !isNxWorkspace\"},{\"when\":\"isNxWorkspace\"},{},{\"when\":\"isNxWorkspace\"\
+  },{\"when\":\"isNxWorkspace\"}]},{\"id\":\"workbench.view.extension.dockerView\
+  \",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-azuretools.v\
+  scode-docker-1.28.0-universal/resources/docker.svg\",\"scheme\":\"file\"},\"n\
+  ame\":\"Docker\",\"isBuiltin\":false,\"views\":[{},{},{},{},{},{},{}]},{\"id\
+  \":\"workbench.view.extension.chatgpt\",\"isBuiltin\":false},{\"id\":\"workbe\
+  nch.panel.chatSidebar\",\"themeIcon\":{\"id\":\"comment-discussion\"},\"name\
+  \":\"Chat\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.editSes\
+  sions\",\"isBuiltin\":false},{\"id\":\"userDataProfiles\",\"themeIcon\":{\"id\
+  \":\"defaultProfile-icon\"},\"name\":\"Profiles\",\"isBuiltin\":true,\"views\
+  \":[]}]"
+workbench.activityBar.hidden: "true"
+workbench.auxiliarybar.size: "300"
+workbench.auxiliaryBar.size: "300"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["properties",true],["markdown",true],["graphql",true],["diff",true],["json",true],["postcss",true],["javascript",true],["jsonc",true],["typescriptreact",true],["typescript",true],["plaintext",true],["yaml",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":true},{"id":"timeline","isHidden":true},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"xmlTreeView","isHidden":false},{"id":"chatgpt.chatView","isHidden":false},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false}]'
+workbench.grid.height: "1660"
+workbench.grid.size: '{"height":1660,"width":3040}'
+workbench.grid.width: "3040"
+workbench.panel.alignment: center
+workbench.panel.dimension: bottom
+workbench.panel.lastNonMaximizedHeight: "447"
+workbench.panel.lastNonMaximizedWidth: "300"
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"workbench.panel.repl","name":"Debug
+  Console","pinned":true,"order":2,"visible":false},{"id":"workbench.panel.testResults","name":"Test
+  Results","pinned":true,"order":3,"visible":true},{"id":"~remote.forwardedPortsContainer","name":"Ports","pinned":true,"order":5,"visible":true},{"id":"workbench.views.service.panel.b63a850a-8a77-4f8c-8cc0-baa218c6fb30","name":"Debug
+  Console","pinned":true,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"refactorPreview","name":"Refactor
+  Preview","pinned":true,"visible":false}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.panel.size: "541"
+workbench.panel.testResults.state.hidden: '[{"id":"workbench.panel.testResults.view","isHidden":false}]'
+workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.sync","isHidden":false}]'
+workbench.sideBar.position: "0"
+workbench.sidebar.size: "390"
+workbench.sideBar.size: "357"
+workbench.statusBar.hidden: "false"
+workbench.statusbar.hidden: '["status.workspaceTrust.1638661281631","status.workspaceTrust.ff45ba1dbe77cf3525f8f11c33f5644f","status.workspaceTrust.1638912895995","status.workspaceTrust.1639330216737","status.workspaceTrust.3c4890280578dcbc1bb7cd090156b590","status.workspaceTrust.1639420930353","status.workspaceTrust.1639629878267","status.workspaceTrust.1639668526313","status.workspaceTrust.1641823949892","status.workspaceTrust.1642655268437","status.workspaceTrust.1642748704207","status.workspaceTrust.1649875626026","status.workspaceTrust.3e64d2db11fb7938a4457af530b87bd2","status.workspaceTrust.2fb585077eb3553ce1651f767904996b","vscode.typescript-language-features/typescript.projectStatus","status.workspaceTrust.1652518438586","status.workspaceTrust.7a76c7466a5a6c8618823abe15782a03","status.workspaceTrust.1654268773844","status.workspaceTrust.1659178966380","status.workspaceTrust.c855db37a001dbc5995d4cf10c6e670d","status.workspaceTrust.1659179023259","status.workspaceTrust.262cd34776961dbba4323c90be09e2cd","status.workspaceTrust.37f498dc81c86ccfcbfefc24173e8518","status.workspaceTrust.fb1579b2b60f3b62fee1341d33a6f9f1","status.workspaceTrust.1659529650994","status.workspaceTrust.1660839127951","status.workspaceTrust.1662715788668","status.workspaceTrust.1682443766792","status.workspaceTrust.17ee7ccabd8a790fe3bc2565d46228d3","status.workspaceTrust.55fd69f1b5c40f50ab6aaa751671609b","status.workspaceTrust.4319c67d9c0e83a61babf88dd5c1b24d","status.workspaceTrust.1682681407930","status.workspaceTrust.03640820ba406da88a1b6e3d348f0931","status.workspaceTrust.1682682113147","status.workspaceTrust.1688049927488","status.workspaceTrust.1692706279420","status.workspaceTrust.db8d1750f718245e7bd5d675c9c57468","status.workspaceTrust.e016963edd4f142a849638e65a54bf1d","status.workspaceTrust.1700996768577","status.workspaceTrust.2263a1a90d80b5fae1810b80866f63d3","status.workspaceTrust.7c1c7163f5d4edb5ec945f7a523d1bf6","status.workspaceTrust.45cb0daaeefec96dfe6ec32916e41bdd","status.workspaceTrust.1701197580855","status.workspaceTrust.1701422117313","status.workspaceTrust.9ebb9e219a7336570fa65e8f7cc46cb8","status.workspaceTrust.1701422229450","status.workspaceTrust.1701422332521","status.workspaceTrust.1701422806785","status.workspaceTrust.4752f367b5edf4c2cacaf1478fb11bdc","status.workspaceTrust.1701425110136","status.workspaceTrust.76d75b242f656faa358802632fa20b1a","status.workspaceTrust.ec24a21ff9a2fbe00b7af9a62dba1094","status.workspaceTrust.1702981435616"]'
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false}]'
+workbench.view.extension.chatgpt.state.hidden: '[{"id":"chatgpt.chatView","isHidden":false}]'
+workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
+workbench.view.extension.nx-console.state.hidden: '[{"id":"nxConsole.views.welcome","isHidden":false},{"id":"nxRunTarget","isHidden":false},{"id":"nxCommands","isHidden":false},{"id":"nxProjects","isHidden":false},{"id":"nxHelpAndFeedback","isHidden":false},{"id":"nxCloud","isHidden":true},{"id":"nxConsole.views.angular-welcome","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed.empty","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":false},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
+workbench.views.extensions.installed.empty: "0"
+workbench.views.extensions.installed.size: "34"
+workbench.views.service.panel.b63a850a-8a77-4f8c-8cc0-baa218c6fb30.state.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.welcomePage.walkthroughMetadata: '[["nrwl.angular-console#nxConsole",{"firstSeen":1652518439177,"stepIDs":["nxConsole.generate","nxConsole.run","nxConsole.commonNxCommands","nxConsole.projects","nxConsole.streamlining"],"manaullyOpened":false}],["ms-azuretools.vscode-docker#dockerStart",{"firstSeen":1659178967431,"stepIDs":["openFolder","openFolderMac","scaffold","buildImage","runContainer","dockerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["vscode.typescript-language-features#nodejsWelcome",{"firstSeen":1682443769026,"stepIDs":["walkthroughs.nodejsWelcome.downloadNode.forMacOrWindows","walkthroughs.nodejsWelcome.downloadNode.forLinux","walkthroughs.nodejsWelcome.makeJsFile","walkthroughs.nodejsWelcome.debugJsFile","walkthroughs.nodejsWelcome.learnMoreAboutJs"],"manaullyOpened":false}]]'
+zokugun.cron-tasks: '{"version":"0.1.2"}'
